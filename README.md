@@ -1,9 +1,26 @@
 TEAM NAME:INOVEX  
-TEAM LEADER:DEEBIKA S
+TRACK:EduGen-AI  
+DOMAIN:Intelligent Education System  
+GITHUB LINK: https://github.com/Karthick71438/learn-graph-ai.git  
 
-TRACK:EduGen-AI
-DOMAIN:Intelligent Education System
-GITHUB LINK:https://github.com/Karthick71438/learn-graph-ai.git
+PROBLEM STATEMENT:Existing learning systems track student progress, but fail to identify concept-level knowledge gaps, prerequisite bottlenecks, and knowledge decay over time.  
+PROPOSED SOLUTION:LearnGraph-Ai(website)
+  
+TEAM LEADER:DEEBIKA S  
+TEAM LEADER EMAIL:deebikasubramaniatr1209@gmail.com  
+TEAM LEADER CONTACT:9500788893  
+
+MEMBER 1 NAME:KARTHICK M  
+MEMBER 1 EMAIL:25cb015@kpriet.ac.in  
+MEMBER 1 CONTACT:8903912721  
+
+MEMBER 2 NAME:REKHA T
+MEMBER 2 EMAIL:25cb041@kpriet.ac.in  
+MEMBER 2 CONTACT:9488869766  
+
+MEMBER 3 NAME:NEETHA U
+MEMBER 3 EMAIL:25cb032@kpriet.ac.in  
+MEMBER 3 CONTACT:7695978514  
 
 
 # 🧠 LearnGraph AI
